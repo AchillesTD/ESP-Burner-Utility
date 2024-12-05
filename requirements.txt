@@ -1,0 +1,4 @@
+PyQt6==6.7.1
+requests==2.32.3
+loguru==0.5.3
+esptool==4.8.1
